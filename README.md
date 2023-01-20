@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Amir1757/Amir1757/main/Name.gif)]
 
-##### Hi, I'm Amir
+##### Hi, I'm Amir[![[](https://github.com/Amir1757/Amir1757/blob/main/Hi.gif)]
 
 - I study at the Faculty of Computers and Information (3rd year)
 - I am in the computer science department
@@ -19,4 +19,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+
 ⭐️ From [AmirRabiee](https://github.com/Amir1757)
