@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Amir1757/Amir1757/main/Name.gif)]
+![Header](https://raw.githubusercontent.com/Amir1757/Amir1757/main/Name.gif)
 
 ##### Hi, I'm Amir<img src="https://raw.githubusercontent.com/Amir1757/Amir1757/main/Hi.gif" width="30px">
 - I study at the Faculty of Computers and Information (3rd year)
