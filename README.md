@@ -1,6 +1,6 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)]
 
-##### Hi, I'm Amir(https://raw.githubusercontent.com/Amir1757/Amir1757/main/Hi.gif)
+##### Hi, I'm Amir
 
 - I study at the Faculty of Computers and Information (3rd year)
 - I am in the computer science department
