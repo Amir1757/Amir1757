@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Amir1757/Amir1757/main/Name.gif)]
 
-##### Hi, I'm Amir<img src="https://raw.githubusercontent.com/Amir1757/Amir1757/main/Hi.gif"style="width:20px;height:20px;">
+##### Hi, I'm Amir<img src="https://raw.githubusercontent.com/Amir1757/Amir1757/main/Hi.gif">
 - I study at the Faculty of Computers and Information (3rd year)
 - I am in the computer science department
 - Currently I am studying machine learning
